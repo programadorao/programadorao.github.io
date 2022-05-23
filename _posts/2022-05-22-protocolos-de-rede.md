@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Protocolos de redes computadores
+title: Protocolos de redes de computadores
 aside:
   toc: true
 sidebar:
