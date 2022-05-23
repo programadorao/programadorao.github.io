@@ -1,15 +1,14 @@
 ---
 layout: article
-title: Protocolos de rede
-tags:
-- redes
-- protocolos
-- padrões
-- 
+title: Protocolos de redes computadores
 aside:
   toc: true
 sidebar:
   nav: layouts
+tags:
+- redes
+- protocolos
+- padrões
   
 author: melissa
 ---
