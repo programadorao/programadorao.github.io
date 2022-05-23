@@ -5,16 +5,18 @@ tags:
 - redes
 - protocolos
 - padrões
-
+- 
+aside:
+  toc: true
+sidebar:
+  nav: layouts
+  
 author: melissa
 ---
 
-Olá!
-Sou a Melissa Costa.
+Olá! Sou a Melissa Costa.
 Continue a seguir o caminho dos conhecimentos básicos sobre redes de computadores!
 
-
-## Capítulo - 2
 
 ## Protocolos
 
@@ -71,7 +73,7 @@ O modelo OSI do projecto Open Systems Interconnection da ISO. É um modelo de re
 | 7 - Aplicação | HTTP, SMTP, SNMP, FTP | Funções especialistas (transferência de arquivos, envio de e-mail, terminal virtual).|
 | 6 - Apresentação | XDR, TLS | Formatação dos dados, conversão de códigos e caracteres (compressão e criptografia).|
 | 5 - Sessão	| Estabelecimento da sessão TCP | Negociação e conexão com outros nós, analogia.|
-| 4 - Transporte |	TCP, TFTP |UDP, RTP, SCTP, SSL | Oferece métodos para a entrega de dados ponto-a-ponto.|
+| 4 - Transporte |	TCP, TFTP UDP, RTP, SCTP, SSL | Oferece métodos para a entrega de dados ponto-a-ponto.|
 | 3 - Rede |	IP, ICMP, IPsec, RIP, OSPF, BGP, NAT, Roteador | Roteamento de pacotes em uma ou várias redes.|
 | 2 - Enlace | 	MTP-2, ARP | Detecção de erros.|
 | 1 - Física |	| Transmissão e recepção dos bits brutos através do meio físico de transmissão.|
