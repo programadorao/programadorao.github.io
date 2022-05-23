@@ -4,7 +4,7 @@ title: Protocolos de redes de computadores
 aside:
   toc: true
 sidebar:
-  nav: layouts
+  nav: posts
 tags:
 - redes
 - protocolos
