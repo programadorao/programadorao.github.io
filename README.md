@@ -1,4 +1,4 @@
-<div align="align">
+<div align="center">
   <h1>Blog Programador Angolano</h1>
   <h3>Blog de ensino sobre programação e TI em geral.</h3>
 </div>
